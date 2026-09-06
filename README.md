@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/themeselection-shadcn-studio-badge.png)](https://mseep.ai/app/themeselection-shadcn-studio)
+
 <a href="https://shadcnstudio.com">
   <img alt="shadcn/studio logo" width="800" src="https://cdn.shadcnstudio.com/ss-assets/smm/marketing/shadcn-studio-smm-banner.png">
 </a><br/><br/>
